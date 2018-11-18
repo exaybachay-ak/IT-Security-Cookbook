@@ -3,3 +3,6 @@ Password: bla'#
 
 Username: bla' OR '1'='1
 Password: bla' OR '1'='1
+
+Input field: bla' OR substr(answer,1,1)='a';
+  Can iterate through chars to figure out each letter in a record
