@@ -1,0 +1,5 @@
+
+### -------->>> Just adding OR 1=1 can cause a misconfigured/unsecured forum to display all messages
+https://www.bla.net/showThread.action?currentThreadID=1%20OR%201=1
+    Should look like this in the address bar:
+    ...?currentThreadID=1 OR 1=1
